@@ -1,0 +1,14 @@
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\ClassPracticeOf18August.exe
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\ClassPracticeOf18August.deps.json
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\ClassPracticeOf18August.runtimeconfig.json
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\ClassPracticeOf18August.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\ClassPracticeOf18August.pdb
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.AssemblyInfoInputs.cache
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.AssemblyInfo.cs
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.csproj.CoreCompileInputs.cache
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\refint\ClassPracticeOf18August.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.pdb
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.genruntimeconfig.cache
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ref\ClassPracticeOf18August.dll
