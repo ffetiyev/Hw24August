@@ -12,3 +12,10 @@ C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\
 C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.pdb
 C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.genruntimeconfig.cache
 C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ref\ClassPracticeOf18August.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.sourcelink.json
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\Library.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\Models.dll
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\Library.pdb
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\bin\Debug\net6.0\Models.pdb
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPracticeOf18August.csproj.AssemblyReference.cache
+C:\Users\ffati\source\repos\ClassPracticeOf18August\ClassPracticeOf18August\obj\Debug\net6.0\ClassPra.4ACFACFD.Up2Date

@@ -27,7 +27,8 @@ namespace ClassPracticeOf18August
             }
 			set 
             {
-                if (value.Length == 4 && char.IsLetter(value[0]))
+                if (value.Length == 4 && char.IsLetter(value[0]) &&
+                 char.IsDigit(value[1]) && char.IsDigit(value[2]) && char.IsDigit(value[3]))
                 {
                     _groupNo = value;
                 }

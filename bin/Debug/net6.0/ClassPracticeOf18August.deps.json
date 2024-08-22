@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ClassPracticeOf18August/1.0.0": {
+        "dependencies": {
+          "Library": "1.0.0",
+          "Models": "1.0.0"
+        },
         "runtime": {
           "ClassPracticeOf18August.dll": {}
+        }
+      },
+      "Library/1.0.0": {
+        "runtime": {
+          "Library.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ClassPracticeOf18August/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,8 @@
-﻿using ClassPracticeOf18August;
+﻿
+
+
+
+using System.Globalization;
 
 //Person p = new Person()
 //{
@@ -10,10 +14,32 @@
 
 //Console.WriteLine(p.Age);
 
-Student stu1 = new Student()
+//Student stu1 = new Student()
+//{
+//    fullName = "Farid Fatiyev",
+//    //no = 1,
+//    groupNo = "p402",
+//};
+//Console.WriteLine(stu1.groupNo);
+
+//Person p = new Person();
+
+//Person.SayHi();
+
+//Console.WriteLine("efnwnfWEFKKF".ToCapitalize());
+
+using Models;
+Person p1 = new Person()
 {
-    fullName = "Farid Fatiyev",
-    //no = 1,
-    groupNo = "P402",
+    Name="John",
+    Surname="Doe",
 };
-Console.WriteLine(stu1.groupNo);
+Person p2 = new Person()
+{
+    Name="Jake",
+    Surname="Doe",
+};
+
+Console.WriteLine(Person._instanceCount);
+Console.WriteLine(p1.PrintInfo());
+

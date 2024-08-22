@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../Library/Library.csproj",
+      "msbuildProject": "../Library/Library.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Library >= 1.0.0",
+      "Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ffati\\.nuget\\packages\\": {}
@@ -33,7 +68,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ffati\\source\\repos\\ClassPracticeOf18August\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\ffati\\source\\repos\\ClassPracticeOf18August\\Library\\Library.csproj"
+            },
+            "C:\\Users\\ffati\\source\\repos\\ClassPracticeOf18August\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\ffati\\source\\repos\\ClassPracticeOf18August\\Models\\Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

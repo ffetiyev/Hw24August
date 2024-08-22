@@ -24,5 +24,10 @@ namespace ClassPracticeOf18August
                 }
             }
         }
+        public static void SayHi()
+        {
+            Console.WriteLine("say hi");
+        }
     }
+
 }
